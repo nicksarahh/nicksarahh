@@ -1,4 +1,4 @@
-| [Português 🇧🇷]() | [English 🇺🇸](https://github.com/nicksarahh/nicksarahh/blob/8b5dc9b675083ae11ce0612aa48d496737f12a81/README.md) |
+| [Português 🇧🇷](https://github.com/nicksarahh/nicksarahh/blob/6aa5d9235010cd7e9ff625a46d88b8b6022293d1/READMEptbr.md) | [English 🇺🇸](https://github.com/nicksarahh/nicksarahh/blob/8b5dc9b675083ae11ce0612aa48d496737f12a81/README.md) |
 |---|---|
 
 <br>
