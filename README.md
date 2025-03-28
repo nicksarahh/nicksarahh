@@ -1,3 +1,8 @@
+| [Português 🇧🇷]() | [English 🇺🇸](https://github.com/nicksarahh/nicksarahh/blob/8b5dc9b675083ae11ce0612aa48d496737f12a81/README.md) |
+|---|---|
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=35&pause=1000&color=8C52FF&width=435&lines=Hi%2C+I'm+Nicoly)](https://git.io/typing-svg)<br>
 <img src="https://i.pinimg.com/originals/dc/2a/a7/dc2aa7219ef6c877897de0efe38b31d9.gif" width="400" align="right">
 
