@@ -7,7 +7,7 @@
 <img src="https://i.pinimg.com/originals/dc/2a/a7/dc2aa7219ef6c877897de0efe38b31d9.gif" width="400" align="right">
 
 ## About Me
-🎓 Systems Development student at ETEC<br>🎶 Passionate about music<br>🚀 On the path to becoming a digital forensics and cybersecurity expert
+🎓 Technical Degree in Systems Development<br>🎶 Passionate about music<br>🚀 On the path to becoming a digital forensics and cybersecurity expert
 
 ## My Skills Include
 ### Languages
