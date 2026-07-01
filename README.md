@@ -4,10 +4,11 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=35&pause=1000&color=8C52FF&width=435&lines=Hi%2C+I'm+Nicoly)](https://git.io/typing-svg)<br>
-<img src="https://i.pinimg.com/originals/dc/2a/a7/dc2aa7219ef6c877897de0efe38b31d9.gif" width="400" align="right">
+<img src="box.png" align="center" width="150">
+<img src="ezgif-88b70f235b9e91d0.gif" width="400" align="right">
 
-## About Me
-🎓 Technical Degree in Systems Development<br>🎶 Passionate about music<br>🚀 On the path to becoming a digital forensics and cybersecurity expert
+## About Me 
+<p><img src="https://img.icons8.com/?size=100&id=OokA08UFwNkY&format=png&color=8C52FF" width="18" align="center"> Technical Degree in Systems Development</p><p><img src="https://img.icons8.com/?size=100&id=59845&format=png&color=8C52FF" width="20" align="center"> Passionate about music</p><p><img src="https://img.icons8.com/?size=100&id=J0vlEGlfBR7h&format=png&color=8C52FF" width="20" align="center"> On the path to becoming a digital forensics and cybersecurity expert</p>
 
 ## My Skills Include
 ### Languages
