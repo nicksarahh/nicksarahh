@@ -3,21 +3,31 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=35&pause=1000&color=8C52FF&width=435&lines=Oie%2C+eu+sou+a+Nicoly)](https://git.io/typing-svg)<br>
-<img src="https://i.pinimg.com/originals/dc/2a/a7/dc2aa7219ef6c877897de0efe38b31d9.gif" width="400" align="right">
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=35&pause=1000&color=8C52FF&width=330&lines=Oie%2C+eu+sou+a+Nicoly" align="center"> <!-- https://git.io/typing-svg --> </div>
+<div align="center"><img src="image-removebg-preview.png" align="center" width="300"></div>
+<img src="ezgif-88b70f235b9e91d0.gif" width="350" align="right">
 
 ## Sobre Mim
-🎓 Técnica em Desenvolvimento de Sistemas<br>🎶 Apaixonada por música<br>🚀 No caminho para me tornar especialista em forense digital e cibersegurança
+<p><img src="https://img.icons8.com/?size=100&id=OokA08UFwNkY&format=png&color=8C52FF" width="18" align="center"> Técnica em Desenvolvimento de Sistemas</p><p><img src="https://img.icons8.com/?size=100&id=59845&format=png&color=8C52FF" width="20" align="center"> Apaixonada por música</p><p><img src="https://img.icons8.com/?size=100&id=J0vlEGlfBR7h&format=png&color=8C52FF" width="20" align="center"> No caminho para me tornar especialista em forense digital e cibersegurança</p>
 
-## Minhas habilidades incluem
-### Linguagens
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-### Outras Ferramentas e Tecnologias
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+## Tecnologias e Ferramentas
+<img src="https://img.icons8.com/?size=100&id=107497&format=png&color=000000" width="40" style="padding-right: 10px;"><img src="https://img.icons8.com/?size=100&id=46605&format=png&color=000000" width="40" style="padding-right: 10px;"> <img src="https://img.icons8.com/?size=100&id=1ZSHk8m9bk4p&format=png&color=000000" width="40" style="padding-right: 10px;"> 
+<img src="https://img.icons8.com/?size=100&id=54949&format=png&color=000000" width="40"> <img src="https://img.icons8.com/?size=100&id=121464&format=png&color=000000" width="40" style="padding-right: 10px;"><img src="https://img.icons8.com/?size=100&id=46845&format=png&color=000000" width="40"> <br>
 
-## Redes Sociais
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicksarahh) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nicksarah) 
+<br>
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-stats-extended.vercel.app/api?username=nicksarahh&show_icons=true&theme=tokyonight" 
+  />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=nicksarahh&layout=compact&theme=tokyonight" 
+  />
